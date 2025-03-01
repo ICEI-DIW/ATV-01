@@ -1,7 +1,7 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: Matheus Lomas de Almeida Ameno
+Nome: 
 Matricula: 
 
 ## Tela de inspeção com navegador
